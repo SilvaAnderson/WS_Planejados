@@ -1,0 +1,25 @@
+body{
+    font-family: 'Roboto_Slab';
+}
+
+.nav {
+    padding: 1.5% 5%;
+}
+
+.custombg {
+    padding: 2% 5%;
+}
+
+#contentone{
+    background-color: #f1f1f1;
+}
+
+.bg-img {
+    width: 100%;
+    height: 100%;
+}
+
+#benefits {
+    background-color: #630A10;
+    color: whitesmoke;
+}
